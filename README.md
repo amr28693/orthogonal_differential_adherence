@@ -36,7 +36,7 @@ Or open `differential_adherence_analysis.ipynb` in Jupyter and run all cells.
 
 # Figures that will generate:
 
-<img width="4171" height="1617" alt="fig3_information_loss" src="https://github.com/user-attachments/assets/b1e8871f-2432-47f6-b38b-a4d8c5186919" />
+<img width="4652" height="2068" alt="fig1_3d_vs_sumscore" src="https://github.com/user-attachments/assets/623cc3cc-9d18-41e9-acdc-eafde37c4bdd" />
 <img width="5368" height="1612" alt="fig2_group_heterogeneity" src="https://github.com/user-attachments/assets/70775be4-8fb5-4cda-bba3-59a9f4cf72c2" />
 <img width="4507" height="2068" alt="fig1_3d_vs_sumscore" src="https://github.com/user-attachments/assets/aa0c4b52-c5e8-46f3-bc28-910331f4759e" />
 
