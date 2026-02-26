@@ -3,7 +3,13 @@
 
 Reproducibility materials for:
 
-> Rodriguez AM. Differential Adherence: Orthogonal Decomposition of Medication Nonadherence Reveals Clinically Significant Heterogeneity Destroyed by Sum-Score Instruments. *Submitted to BMC MRM*, 2026.
+> Differential Adherence: Orthogonal Decomposition of Medication Nonadherence Reveals Clinically Significant Heterogeneity Destroyed by Sum-Score Instruments
+> 
+By: Anderson M. Rodriguez
+Independent Researcher, Athens, GA, United States
+ORCID: https://orcid.org/0009-0007-5179-9341
+
+*Submitted to BMC MRM*, 2026.
 
 ## Data
 
