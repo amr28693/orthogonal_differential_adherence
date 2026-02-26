@@ -263,7 +263,7 @@ def plot_figure1(df):
     ax2.set_xlabel('Sum-Score (Intentional + Unintentional)', fontsize=11)
     ax2.set_yticks([])
     ax2.set_ylim(-0.08, 0.08)
-    ax2.set_title('B) Sum-Score Reduction (what you actually get)',
+    ax2.set_title('B) Sum-Score Reduction (Projection with visualized information normally destroyed in Y-axis)',
                   fontsize=12, fontweight='bold')
     ax2.text(0.97, 0.03, 'No color or direction.\nSimple single number.',
              transform=ax2.transAxes, ha='right', va='bottom',
