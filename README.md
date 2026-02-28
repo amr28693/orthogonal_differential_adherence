@@ -15,7 +15,7 @@ ORCID: https://orcid.org/0009-0007-5179-9341
 
 Download `NeuroGerAd_Data_OSF.xlsx` from the NeuroGerAd study repository:
 
-- **OSF:** [https://osf.io/kuaph](https://osf.io/kuaph)
+- **OSF:** [https://osf.io/kuaph](https://osf.io/kuaph) [accessed 2.28.26]
 - **Citation:** Prell T, Schönenberg A, Mendorf S, Mühlhammer HM, Grosskreutz J, Teschner U. Data on medication adherence in adults with neurological disorders: The NeuroGerAd study. *Sci Data*. 2022;9(1):734. doi:10.1038/s41597-022-01847-9
 
 Place the file in the same directory as the analysis script.
